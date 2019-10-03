@@ -1,0 +1,31 @@
+#Game Treatment
+
+##Concept
+Deer With It is a simple 2D platformer game where the player controls a deer looking for a flower to eat while 
+avoiding the hunters' arrows.
+
+##Genre
+The game will be a simple 2D platformer with a few different level layouts.
+
+##Platform
+This game will be desktop only, but could be easily modified to work on mobile.
+
+##Story
+In this game, the player is controlling a little deer who is out looking for lunch. However, it its the middle of hunting season, 
+and the deer must dodge all the arrows on his way to find a tasty snack.
+
+##Esthetics
+The game will use a cartoony art style and have looping background music. Simple sound effects will play when the player 
+reaches a flower or is hit by an arrow.
+
+##Gameplay
+The player will use the left and right arrow keys to move from side to side, and the spacebar to jump. The level will reset 
+each time a flower is reached. There will be an instructions scene, but the controls should be pretty intuitive. 
+The player must learn the best way to make it to the flowers without getting shot by the arrows.
+
+##Screenshots
+There will be pictures here later ;)
+
+##About the Developer
+Emily Zeh is a second year GDD major who is very stressed right now. She enjoys playing video games and both listening to and
+making music. 
